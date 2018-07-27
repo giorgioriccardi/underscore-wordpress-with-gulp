@@ -1,5 +1,12 @@
 [![Build Status](https://travis-ci.org/Automattic/_s.svg?branch=master)](https://travis-ci.org/Automattic/_s)
 
+Task Runner build
+===
+
+* `npm init`
+* `npm install`
+* `gulp watch`
+
 _s
 ===
 
