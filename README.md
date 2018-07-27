@@ -1,6 +1,6 @@
 [![Build Status](https://travis-ci.org/Automattic/_s.svg?branch=master)](https://travis-ci.org/Automattic/_s)
 
-Task Runner build
+Gulp Task Runner build
 ===
 
 * `npm init`
